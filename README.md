@@ -1,8 +1,8 @@
-# Duran OS
+# Duran OS 11
 
 
-Hola soy JaelD Gamer, un YT que ha creado un SO llamado Duran OS,
-Es windows pero hecho para gamers, pls no confundais con Gamer Os.
+Hola soy JaelD Gamer, un YT que ha creado un SO llamado Duran OS 11,
+Es windows pero hecho para gamers, pls no confundais con Gamer OS.
 
 A diferencia de otros OS's el mio esta basado en windows.
 

@@ -4,6 +4,8 @@
 Hola soy JaelD Gamer, un YT que ha creado un SO llamado Duran OS 11,
 Es windows pero hecho para gamers, pls no confundais con Gamer OS.
 
+Se necesita minimo 100 GB para que el pc no vaya justo de espacio
+
 A diferencia de otros OS's el mio esta basado en windows 11.
 
 Viene con cosas preinstaladas que he puesto yo como Steam, Roblox y Roblox Studio.

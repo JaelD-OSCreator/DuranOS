@@ -44,7 +44,7 @@ Ahora con todo eso os explico los pasos de instalacion de Duran OS 11.
 7. Le dais a reparacion automatica, y si no esta en opciones avanzadas volved atras y revisad por todo el recovery
 8. Cuando lo hayas encontrado le das a reparacion automatica y estara haciendo unas cosas
 9. Cuando acabe inicias el ordenador desde el disco duro
-10. Cuando inicie Duran OS 11 vais a windows update y buscad actualizaciones para los drivers
+10. (cuando acabeis de configurarlo) Cuando inicie Duran OS 11 vais a windows update y buscad actualizaciones para los drivers
 
 
 Y listo.

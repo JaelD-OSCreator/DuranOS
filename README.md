@@ -15,13 +15,23 @@ Viene con cosas preinstaladas que he puesto yo como Steam, Roblox y Roblox Studi
 Este SO para instalarse deben de usar un clonador de discos que conozcan bien(porque el archivo que se descarga es un .vhd(Disco virtual), tambien necesitaran el instalador de windows.
 
 Tambien tienes que seguir los pasos de ahora:
-1.![](https://github.com/JaelD-OSCreator/DuranOS/blob/main/Captura%20de%20pantalla%202024-08-11%20121925.png))
+
+
+1.
+![](https://github.com/JaelD-OSCreator/DuranOS/blob/main/Captura%20de%20pantalla%202024-08-11%20121925.png)
+
 Abrir el administrador de discos
 
-2.![](https://github.com/JaelD-OSCreator/DuranOS/blob/main/Captura%20de%20pantalla%202024-08-11%20122039.png)
+
+2.
+![](https://github.com/JaelD-OSCreator/DuranOS/blob/main/Captura%20de%20pantalla%202024-08-11%20122039.png)
+
 Dale ha accion y Exponer VHD
 
-3.![](https://github.com/JaelD-OSCreator/DuranOS/blob/main/Captura%20de%20pantalla%202024-08-11%20122133.png)
+
+3.
+![](https://github.com/JaelD-OSCreator/DuranOS/blob/main/Captura%20de%20pantalla%202024-08-11%20122133.png)
+
 Te pedira una ubicacion, tendras que seleccionar el archivo VHD que ya deberias de tener descargado, te aseguras de que la casilla de solo lectura este desmarcada y le das a aceptar y te aparecera todo como si hubieras conectado un disco real pero no lo abras si se te abre cierralo.
 Ahora con todo eso os explico los pasos de instalacion de Duran OS 11.
 
